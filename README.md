@@ -13,7 +13,7 @@ Tanımlanan nesnenin aşağısında gerekli DOM manipülasyonlarını gerçekle�
     * Nokta veya köşeli parantez gösterimini kullanarak verilere erişin.
 
 **ÖNEMLİ KURAL: HTML dosyasını düzenleyemezsiniz. Sadece JavaScript düzenlemesi yapacaksınız.**
-
+ 
 ## Git Kurulumu
 
 * [ ] Forklayarak bir kopya oluşturun.
